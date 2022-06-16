@@ -23,8 +23,8 @@ const HeroBanner = () => {
       lineHeight='35px' mb={4}>
         Check out the most effective exercises
       </Typography>
-      <Button variant='contained'
-      color='error' href='#exercises' sx={{ backgroundColor: '#FF2625', padding: '10px'}} >
+      <Button variant='contained' 
+      color='error' href='#exercises' sx={{ backgroundColor: '#FF2625', padding: '10px', fontWeight: '600'}} >
         Explore Exercises
       </Button>
       <Typography
